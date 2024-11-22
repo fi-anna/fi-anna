@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faybirch
+- 👋 Hi, I’m @fi-anna
 - 👀 I’m interested in:
     many things!
 - 🌱 I’m currently learning:
@@ -7,6 +7,6 @@
     finn@burchfiel.net
 
 <!---
-faybirch/faybirch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fi-anna/fi-anna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
