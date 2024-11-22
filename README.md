@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning:
     full stack developing, modding games like Sims4 and Minecraft
 - 📫 How to reach me: 
-    finn@burchfiel.net
+    fiannawilliams.dev@gmail.com
 
 <!---
 fi-anna/fi-anna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
